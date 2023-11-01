@@ -5,7 +5,7 @@ const Product = () => {
   const [products, setProducts] = useState([]);
   const [sortOrder, setSortOrder] = useState("all"); // 'all', 'low', or 'high'
   const [currentPage, setCurrentPage] = useState(1);
-  const productsPerPage = 6;
+  const productsPerPage = 9;
 
   useEffect(() => {
     fetch("/products.json")

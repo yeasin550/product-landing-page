@@ -154,9 +154,89 @@
   {
     "id": 20,
     "image": "https://images.unsplash.com/photo-1495291916458-c12f594151e7?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "title": "bulb on black surface",
+    "title": "Bulb on black surface",
     "description": "Affordable and versatile, your all-in-one solution.",
     "rating": 4.2,
     "price": 31.99
+  },
+  {
+    "id": 21,
+    "image": "https://images.unsplash.com/photo-1567967455389-e432b1ca1404?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Leather handbags",
+    "description": "Affordable and versatile, your all-in-one solution.",
+    "rating": 4.2,
+    "price": 39.99
+  },
+  {
+    "id": 22,
+    "image": "https://media.istockphoto.com/id/1069165932/photo/black-leather-jacket-shot-from-front-and-back-isolated-on-white.jpg?s=1024x1024&w=is&k=20&c=Lrzzgm7wY4t8fwxH_TON64VrBoCab82Wmw39g2U0eDg=",
+    "title": "Black Court",
+    "description": "Affordable and versatile, your all-in-one solution.",
+    "rating": 4.2,
+    "price": 31.99
+  },
+  {
+    "id": 23,
+    "image": "https://images.unsplash.com/photo-1612887726773-e64e20cf08fe?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Brown hat",
+    "description": "Affordable and versatile, your all-in-one solution.",
+    "rating": 4.2,
+    "price": 19.99
+  },
+  {
+    "id": 24,
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&q=80&w=1480&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Omega Planet Ocean",
+    "description": "Affordable and versatile, your all-in-one solution.",
+    "rating": 4.2,
+    "price": 100.99
+  },
+  {
+    "id": 25,
+    "image": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Fossil chronograph watch",
+    "description": "Affordable and versatile, your all-in-one solution.",
+    "rating": 4.2,
+    "price": 19.99
+  },
+  {
+    "id": 26,
+    "image": "https://plus.unsplash.com/premium_photo-1664392147011-2a720f214e01?auto=format&fit=crop&q=80&w=1478&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "A long strap",
+    "description": "Affordable and versatile, your all-in-one solution.",
+    "rating": 4.2,
+    "price": 55.99
+  },
+  {
+    "id": 27,
+    "image": "https://images.unsplash.com/photo-1534131092884-4a0a9d19dff6?auto=format&fit=crop&q=80&w=1480&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Black strap",
+    "description": "Affordable and versatile, your all-in-one solution.",
+    "rating": 4.2,
+    "price": 91.99
+  },
+  {
+    "id": 28,
+    "image": "https://images.unsplash.com/photo-1559818469-a289200df0b1?auto=format&fit=crop&q=80&w=1389&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "gray nail clipper",
+    "description": "Affordable and versatile, your all-in-one solution.",
+    "rating": 4.2,
+    "price": 20.99
+  },
+  {
+    "id": 29,
+    "image": "https://images.unsplash.com/photo-1657214068730-6d5cc1bbab3e?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "A pair of earrings",
+    "description": "Affordable and versatile, your all-in-one solution.",
+    "rating": 4.2,
+    "price": 49.99
+  },
+  {
+    "id": 30,
+    "image": "https://images.unsplash.com/photo-1656054107162-0b0b7134e412?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Circuit board",
+    "description": "Affordable and versatile, your all-in-one solution.",
+    "rating": 4.2,
+    "price": 80.99
   }
 ]

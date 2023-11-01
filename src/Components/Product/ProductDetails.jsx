@@ -36,7 +36,7 @@ Toast.fire({
         src={product?.image}
         alt=""
       />
-      <h1 className="font-bold my-3">{product?.title}</h1>
+      <h1 className="font-bold my-2">{product?.title}</h1>
       <p>{product?.description}</p>
       <div className="flex items-center gap-5 space-y-2">
         <p>
