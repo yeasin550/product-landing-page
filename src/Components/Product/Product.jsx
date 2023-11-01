@@ -3,7 +3,7 @@ import ProductDetails from "./ProductDetails";
 
 const Product = () => {
   const [products, setProducts] = useState([]);
-  const [sortOrder, setSortOrder] = useState("low"); // 'low' or 'high'
+  const [sortOrder, setSortOrder] = useState("all"); // 'all', 'low', or 'high'
   const [currentPage, setCurrentPage] = useState(1);
   const productsPerPage = 6;
 
@@ -18,10 +18,10 @@ const Product = () => {
   const sortedProducts = [...products]; // Create a copy of the products array to avoid mutating the original array
 
   // Sort products based on the selected sort order
-  if (sortOrder === "high") {
-    sortedProducts.sort((a, b) => b.price - a.price);
-  } else {
+  if (sortOrder === "low") {
     sortedProducts.sort((a, b) => a.price - b.price);
+  } else if (sortOrder === "high") {
+    sortedProducts.sort((a, b) => b.price - a.price);
   }
 
   const indexOfLastProduct = currentPage * productsPerPage;
@@ -36,7 +36,7 @@ const Product = () => {
   };
 
   return (
-    <div className="mb-12 lg:mt-[750px] mt-[150px]">
+    <div className="mb-12 lg:mt-[750px] mt-[150px] lg:mr-10">
       <h1 className="text-center font-semibold text-4xl" data-aos="fade-right">
         NEW PRODUCTS
       </h1>
@@ -48,14 +48,16 @@ const Product = () => {
         Per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc
         nobis videntur parum clar
       </p>
-      <div className="relative w-full mx-auto lg:max-w-sm mt-5">
+      <h1 className="text-2xl font-semibold mt-5 text-center">Sort by Price, Your Way</h1>
+      <div className="relative w-full mx-auto lg:max-w-sm mt-1">
         <select
-          className="w-full p-2.5 text-gray-500 bg-white border border-orange-500 rounded-md shadow-sm outline-none appearance-none focus:border-indigo-600"
+          className="w-full p-2.5 bg-white border-2 font-bold border-orange-500 rounded-md shadow-sm outline-none appearance-none focus:border-indigo-600"
           onChange={(e) => setSortOrder(e.target.value)}
           value={sortOrder}
         >
-          <option value="low">Low</option>
-          <option value="high">High</option>
+          <option value="all">All</option>
+          <option value="low">Low Price</option>
+          <option value="high">High Price</option>
         </select>
       </div>
 
