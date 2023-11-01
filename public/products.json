@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Apple EarPods",
+    "description": "A high-quality product with advanced features.",
+    "rating": 4.5,
+    "price": 49.99
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1557063673-0493e05da49f?auto=format&fit=crop&q=80&w=1476&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Wireless headphones",
+    "description": "Elegant and durable, perfect for any occasion.",
+    "rating": 4.2,
+    "price": 29.99
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1481207801830-97f0f9a1337e?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Apple EarPods ",
+    "description": "A versatile product suitable for various tasks.",
+    "rating": 4.0,
+    "price": 39.99
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Silver headphones",
+    "description": "Sleek design with innovative technology.",
+    "rating": 4.7,
+    "price": 69.99
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "red Nike sneaker",
+    "description": "Compact and efficient for everyday use.",
+    "rating": 4.4,
+    "price": 19.99
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?auto=format&fit=crop&q=80&w=1450&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Athletic shoe",
+    "description": "Robust and reliable for heavy-duty tasks.",
+    "rating": 4.9,
+    "price": 79.99
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Nike Air Max 90 shoe",
+    "description": "Sustainable and eco-friendly choice.",
+    "rating": 4.6,
+    "price": 49.99
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1625772452859-1c03d5bf1137?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Round container",
+    "description": "User-friendly and easy to operate.",
+    "rating": 4.1,
+    "price": 24.99
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&q=80&w=1374&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Klein perfume bottle",
+    "description": "Luxurious and high-end for a premium experience.",
+    "rating": 4.8,
+    "price": 149.99
+  },
+  {
+    "id": 10,
+    "image": "https://media.istockphoto.com/id/960144354/photo/fashion-flat-lay-pink-pastel-background.jpg?s=1024x1024&w=is&k=20&c=jXfE-GwyUY1gU4Z1BSQ_jUXkSvF_Iy3VM5litt6U2TM=",
+    "title": "Clean Play",
+    "description": "A versatile and affordable choice for various needs.",
+    "rating": 4.3,
+    "price": 34.99
+  },
+  {
+    "id": 11,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&q=80&w=1399&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Watch with white band",
+    "description": "Stylish and functional, perfect for your lifestyle.",
+    "rating": 4.5,
+    "price": 59.99
+  },
+  {
+    "id": 12,
+    "image": "https://images.unsplash.com/photo-1502767089025-6572583495f9?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Black framed clubmaster",
+    "description": "Cutting-edge technology for your convenience.",
+    "rating": 4.2,
+    "price": 89.99
+  },
+  {
+    "id": 13,
+    "image": "https://images.unsplash.com/photo-1610136649349-0f646f318053?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Framed sunglasses",
+    "description": "Sleek and modern design, built to last.",
+    "rating": 4.4,
+    "price": 42.99
+  },
+  {
+    "id": 14,
+    "image": "https://images.unsplash.com/photo-1621951767587-b24334f11c65?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Crew neck t-shirt",
+    "description": "Efficient and cost-effective solution.",
+    "rating": 4.6,
+    "price": 28.99
+  },
+  {
+    "id": 15,
+    "image": "https://images.unsplash.com/photo-1573868388390-2739872961e6?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "USB data cables",
+    "description": "Compact and powerful, ideal for any task.",
+    "rating": 4.3,
+    "price": 54.99
+  },
+  {
+    "id": 16,
+    "image": "https://images.unsplash.com/photo-1613141411244-0e4ac259d217?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Corded computer mouse",
+    "description": "Eco-friendly and sustainable choice.",
+    "rating": 4.7,
+    "price": 47.99
+  },
+  {
+    "id": 17,
+    "image": "https://images.unsplash.com/photo-1629429408209-1f912961dbd8?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Corded computer mouse",
+    "description": "User-centric design for maximum comfort.",
+    "rating": 4.1,
+    "price": 36.99
+  },
+  {
+    "id": 18,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&q=80&w=1465&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Computer keyboard",
+    "description": "Premium quality for the discerning buyer.",
+    "rating": 4.8,
+    "price": 119.99
+  },
+  {
+    "id": 19,
+    "image": "https://media.istockphoto.com/id/1500697623/photo/black-computer-keyboard-floating-in-mid-air-with-shadow-creating-monochrome-illustration-of.jpg?s=1024x1024&w=is&k=20&c=HHLMAKMSjuzuRB5GB7RuvBxTB88ieMDyuQJn6TB4HN8=",
+    "title": "Computer keyboard",
+    "description": "Durable and reliable, built to withstand.",
+    "rating": 4.5,
+    "price": 67.99
+  },
+  {
+    "id": 20,
+    "image": "https://images.unsplash.com/photo-1495291916458-c12f594151e7?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "bulb on black surface",
+    "description": "Affordable and versatile, your all-in-one solution.",
+    "rating": 4.2,
+    "price": 31.99
+  }
+]
